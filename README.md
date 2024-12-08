@@ -81,5 +81,5 @@ Instruções Detalhadas de Execução
  3. Compile o código-fonte utilizando o comando `javac`.
  4. Execute o programa com o comando `java`.
  5. Navegue pelas opções disponíveis na interface gráfica para listar, buscar, inserir ou remover clientes.
-Link para o Código-Fonte
-O código-fonte documentado e comentado pode ser acessado em: 
+
+
