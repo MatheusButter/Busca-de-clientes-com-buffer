@@ -8,7 +8,7 @@ Instituto Federal do Espírito Santo Campus Serra
  Técnicas de Programação Avançada
  Prof. Mateus Conrad B. da Costa
 
- Equipe: Irene Schmidt da Silva Alves
+Equipe: Irene Schmidt da Silva Alves
 Irlane Schmidt da Silva Alves
 Matheus Butter Dias
 
@@ -17,8 +17,13 @@ Matheus Butter Dias
 
 
 Descrição do Problema e Equipe
+
 O trabalho consiste na implementação de um sistema para gerenciar o cadastro de clientes de uma empresa global, focando em grandes volumes de dados. As operações principais incluem listar clientes, pesquisar, inserir e remover registros.
+
+Figura 1: Diagrama de Classes
+
 Arquitetura da Aplicação com Diagrama de Classes
+
 O sistema utiliza uma interface gráfica baseada em JFrames no estilo do Windows, com manipulação de dados utilizando algoritmos de ordenação externa. Abaixo está o diagrama de classes representando a arquitetura do sistema.
 
 Descrição dos Principais Algoritmos Utilizados
@@ -36,9 +41,10 @@ A classe BufferDeClientes implementa a interface Buffer e tem a função de gere
 A classe ClienteGUI é uma implementação de uma interface gráfica para gerenciar clientes, ela permite carregar, adicionar, remover, ordenar e buscar clientes em uma tabela visual. Além disso, os clientes podem ser carregados de um arquivo binário, e a interface oferece uma série de funcionalidades para manipulação desses dados.
 
 
-A classe ClienteGUI2 é uma aplicação gráfica,  que utiliza um BufferDeClientes para carregar registros de clientes de um arquivo de forma otimizada. Essa versão da interface foi projetada para exibir grandes volumes de dados de maneira eficiente,
+A classe ClienteGUI2 é uma aplicação gráfica,  que utiliza um BufferDeClientes para carregar registros de clientes de um arquivo de forma otimizada. Essa versão da interface foi projetada para exibir grandes volumes de dados de maneira eficiente.
 
 Imagens das Telas
+
 As imagens a seguir ilustram as principais operações do sistema, incluindo a interface gráfica para listagem, busca, inserção e remoção de clientes.
 
 Figura 02: Representa a tela inicial sem carregar a base de clientes.
